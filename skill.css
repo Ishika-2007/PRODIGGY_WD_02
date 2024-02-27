@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background-color: #eae4f0;
+}
+.navbar{
+    height: 85px;
+    background-color: rgb(130, 34, 171);
+    display:flex;
+    align-items: center;
+}
+.name{
+    color:#a855f7;
+    font-size: 3rem;
+    font-weight: 800;
+    width:950px;
+    margin-left:80px;
+}
+a{
+    color:black;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.para{
+    margin:50px;
+    text-align: center;
+    font-size: 1.3rem;
+}
+.content{
+    display: flex;
+}
+.side1{
+    width:50%;
+    margin-left:30px;
+}
+.border{
+    height:25px;
+    width:650px;
+    border-radius: 10px;
+    background-color:#d8bfef;
+    margin:5px;
+    margin-bottom: 50px;
+}
+h2{
+    margin-left:20px;
+}
+.bar{
+    
+    height:25px;
+    background-color:#975bcf;
+    border-radius: 10px;
+}
+.one{
+    width:90%;
+}
+.two{
+    width:70%;
+}
+.three{
+    width:40%;
+}
+.four{
+    width:80%;
+}
+.five{
+    width:65%;
+}
+.six{
+    width:90%;
+}
